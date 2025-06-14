@@ -1,11 +1,11 @@
 {
-    "name": "fady/api-response",
+    "name": "fadyreda99/api-response",
     "description": "Reusable response and pagination traits for Laravel",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Fady\\ApiResponse\\": "src/"
+            "fadyreda99\\ApiResponse\\": "src/"
         }
     },
     "require": {
