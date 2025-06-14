@@ -1,6 +1,6 @@
 <?php
 
-namespace fady\ApiResponse\Traits;
+namespace fadyreda99\ApiResponse\Traits;
 
 trait ResponseTrait
 {
