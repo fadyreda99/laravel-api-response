@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "fadyreda99\\ApiResponse\\": "src/"
+            "fadyreda99\\ApiResponse\\LaravelApiResponse\\": "src/"
         }
     },
     "require": {
